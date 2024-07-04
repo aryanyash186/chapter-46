@@ -1,5 +1,3 @@
-Vite configaration file:
-
 import { resolve } from "path";
 import { defineConfig } from "vite";
 
